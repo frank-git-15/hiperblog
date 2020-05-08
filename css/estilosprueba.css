@@ -16,10 +16,10 @@ body
   margin: 0 auto;
 
 }
-#cabecera
+#head
 {
-  background: rgb(5, 72, 246);
-  color: white;
+  background: rgb(246, 244, 5);
+  color: purple;
   font-weight: bold;
   margin: 0;
   padding: 0.5em;
