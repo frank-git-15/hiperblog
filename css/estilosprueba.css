@@ -1,6 +1,28 @@
 body
 {
   color: rgba(7, 238, 71, 0.9);
-  text-align: right;
+  text-align: center;
   font-family: "Arial"
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+}
+#container
+{
+  width: 70%;
+  padding: 0;
+  text-align: left;
+  border: 1px solid #000000;
+  margin: 0 auto;
+
+}
+#cabecera
+{
+  background: rgb(5, 72, 246);
+  color: white;
+  font-weight: bold;
+  margin: 0;
+  padding: 0.5em;
+  box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+
 }
