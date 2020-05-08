@@ -16,10 +16,10 @@ body
   margin: 0 auto;
 
 }
-#cabecera
+#cabecerota
 {
-  background: rgb(5, 72, 246);
-  color: white;
+  background: rgb(7, 107, 20);
+  color: red;
   font-weight: bold;
   margin: 0;
   padding: 0.5em;
